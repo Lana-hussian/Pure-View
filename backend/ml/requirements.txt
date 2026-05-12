@@ -1,0 +1,5 @@
+pandas
+scikit-learn>=1.0
+joblib
+requests
+numpy

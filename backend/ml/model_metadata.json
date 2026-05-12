@@ -1,0 +1,24 @@
+{
+  "model_version": "v3.0-advanced",
+  "features_used": [
+    "primary_genre",
+    "company",
+    "release_month",
+    "budget",
+    "runtime",
+    "popularity",
+    "budget_per_minute",
+    "director_avg_score",
+    "cast_avg_score",
+    "genre_text",
+    "overview"
+  ],
+  "global_avg_score": 60.72,
+  "test_mse": 227.7068,
+  "test_rmse": 15.09,
+  "test_r2": -0.1616,
+  "cv_r2_mean": -0.0665,
+  "training_samples": 640,
+  "test_samples": 160,
+  "total_features": 11
+}
