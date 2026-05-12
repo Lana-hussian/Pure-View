@@ -1,5 +1,18 @@
+# Node.js
 node_modules/
 .env
-dist/
-build/
-*.log
+
+# Database
+data/pureview.sqlite
+data/uploads/
+
+# Python
+__pycache__/
+# *.joblib (Included per user request for direct client access)
+*.csv
+.venv/
+venv/
+env/
+
+# Mac
+.DS_Store
