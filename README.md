@@ -31,7 +31,7 @@ Follow these steps to set up the project on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/peterraafat99/Pure-View.git
+git clone https://github.com/Lana-hussian/Pure-View.git
 cd "Pure View"
 ```
 
